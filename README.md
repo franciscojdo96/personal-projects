@@ -10,7 +10,7 @@ Aquí podran ver diversos proyectos que he preparado para estudiar Data Analytic
  
 Por favor contáctame por [LinkedIn](https://www.linkedin.com/in/franciscojdo/) si te interesa mi trabajo o en caso de algún inconveniente. 
 
-## Cursos realizados
+## Cursos Realizados
 
 - **DataCamp** [Introduction to Python](https://drive.google.com/file/d/1Pj16hk7PRKYtc5MBGmp2z7e2Bjtgr0jZ/view?usp=sharing): Variables, Types, Lists, Functions, Methods, Packages, NumPy. *(Enero 25, 2021)*
 - **DataCamp** [Intermediate Python](https://drive.google.com/file/d/1QO7nywAnwJAEZLV_DEjAt2DBbkk1WlsB/view?usp=sharing): Matplotlib, Dictionaries, Pandas, Operators, Conditions, Loops. *(Febrero 11, 2021)*
