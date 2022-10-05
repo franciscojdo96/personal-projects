@@ -1,6 +1,6 @@
 # Francisco Delaveau: Portafolio
 
-Soy egresado de Ingeniería Civil Industrial y de MSc Data Science de la Universidad Adolfo Ibañez.
+Soy egresado de **Ingeniería Civil Industrial** y de **MSc Data Science** de la Universidad Adolfo Ibañez.
 Aquí podran ver diversos proyectos que he preparado para estudiar Data Analytics y Data Science. La mayoría de estos será escrito en **Jupyter Notebooks**.
 
 Por favor contáctame por [LinkedIn](https://www.linkedin.com/in/franciscojdo/) si te interesa mi trabajo o en caso de algún inconveniente. 
